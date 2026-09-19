@@ -15,10 +15,16 @@ public class TestFile {
 
 	public void empId(double id) {
 		System.out.println("Employee ID (double): " + id);
+}
+	private void name() {
+		System.out.println("Sudhaka");
+		
 	}
 
 	public void empId(int id, String name) {
 		System.out.println("Employee ID: " + id + ", Name: " + name);
+		
+		
 	}
 
 }
