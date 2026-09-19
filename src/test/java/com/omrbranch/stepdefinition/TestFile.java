@@ -6,7 +6,7 @@ public class TestFile {
 	}
 
 	public void empId(int id) {
-		System.out.println("Employee ID (int): " + id);
+		System.out.println("Employee ID (pls): " + id);
 	}
 
 	public void empId(String id) {
@@ -15,10 +15,20 @@ public class TestFile {
 
 	public void empId(double id) {
 		System.out.println("Employee ID (double): " + id);
+}
+	private void name3() {
+		System.out.println("Sudhakar");
+		System.out.println("Chennai");
+		
 	}
 
 	public void empId(int id, String name) {
 		System.out.println("Employee ID: " + id + ", Name: " + name);
+		
+		
+	}
+	public void name1() {
+		System.out.println("Hello from TESTER2");
 	}
 
 }
