@@ -2,7 +2,7 @@ package com.omrbranch.stepdefinition;
 
 public class TestFile {
 	public void names() {
-		System.out.println("Hello from TESTER2");
+		System.out.println("Hello from MASTER");
 	}
 
 	public void empId(int id) {
@@ -16,7 +16,7 @@ public class TestFile {
 	public void empId(double id) {
 		System.out.println("Employee ID (double): " + id);
 }
-	private void name() {
+	private void name3() {
 		System.out.println("Sudhakar");
 		System.out.println("Chennai");
 		
@@ -26,6 +26,9 @@ public class TestFile {
 		System.out.println("Employee ID: " + id + ", Name: " + name);
 		
 		
+	}
+	public void name1() {
+		System.out.println("Hello from TESTER2");
 	}
 
 }
