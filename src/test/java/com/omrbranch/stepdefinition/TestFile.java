@@ -27,8 +27,6 @@ public class TestFile {
 		
 		
 	}
-	public void name1() {
-		System.out.println("Hello from TESTER2");
-	}
+	
 
 }
