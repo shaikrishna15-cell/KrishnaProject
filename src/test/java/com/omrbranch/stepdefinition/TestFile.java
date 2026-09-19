@@ -2,7 +2,7 @@ package com.omrbranch.stepdefinition;
 
 public class TestFile {
 	public void names() {
-		System.out.println("My name is krishna");
+		System.out.println("Hello from MASTER");
 	}
 
 	public void empId(int id) {
