@@ -2,6 +2,6 @@ package com.omrbranch.stepdefinition;
 
 public class ClassA {
 public void name() {
-	System.out.println("Hello from MASTER");
+	System.out.println("Hello from TESTER2");
 }
 }
