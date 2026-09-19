@@ -17,7 +17,8 @@ public class TestFile {
 		System.out.println("Employee ID (double): " + id);
 }
 	private void name() {
-		System.out.println("Sudhaka");
+		System.out.println("Sudhakar");
+		System.out.println("Chennai");
 		
 	}
 
