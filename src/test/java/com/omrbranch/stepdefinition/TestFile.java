@@ -6,7 +6,7 @@ public class TestFile {
 	}
 
 	public void empId(int id) {
-		System.out.println("Employee ID (int): " + id);
+		System.out.println("Employee ID (pls): " + id);
 	}
 
 	public void empId(String id) {
