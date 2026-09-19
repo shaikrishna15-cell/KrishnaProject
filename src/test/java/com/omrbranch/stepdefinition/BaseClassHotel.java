@@ -392,4 +392,10 @@ public class BaseClassHotel {
         return (String) js.executeScript("return arguments[0].innerText;", string);
     }
   		
+    
+    public String getTextUsingJSN(String string) {
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        return (String) js.executeScript("return arguments[0].innerText;", string);
+    }
+  	
 }
