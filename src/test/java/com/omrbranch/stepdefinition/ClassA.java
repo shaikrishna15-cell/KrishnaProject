@@ -4,5 +4,6 @@ public class ClassA {
 public void name() {
 	System.out.println("Chennai");
 	System.out.println("Kirsh");
+	System.out.println("18age");
 }
 }
