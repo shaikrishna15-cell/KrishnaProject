@@ -23,9 +23,7 @@ public class TestFile {
 	}
 
 	public void empId(int id, String name) {
-		System.out.println("Employee ID: " + id + ", Name: " + name);
-		
-		
+		System.out.println("Employee ID: " + id + ", Name: " + name);	
 	}
 	
 }
